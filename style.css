@@ -1,0 +1,22 @@
+body {
+    background-color: lightgreen;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+form {
+    padding: 10em 30em 0;
+}
+
+button {
+    margin: 1vh;
+    padding: 1vh 8vw;
+}
+
+input {
+    margin: 10px 0;
+}
+
+.result {
+    padding: 1em 30em;
+}
